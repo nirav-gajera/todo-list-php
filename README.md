@@ -5,4 +5,4 @@
 
 -run https:localhost/todo-list-php/index.php
 
--in this app user can add,remove and mask as done their tasks
+-in this app user can add,remove and mask as done their tasks 
