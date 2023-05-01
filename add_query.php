@@ -5,6 +5,6 @@
 			$task = $_POST['task'];
 			$conn->query("INSERT INTO `task` VALUES('', '$task', '')");
 			header('location:index.php');
+			}
 		}
-	}
 ?>
