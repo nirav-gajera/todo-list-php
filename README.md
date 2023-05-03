@@ -1,5 +1,3 @@
-[![Hits](https://hits.sh/github.com/silentsoft/hits.svg)](https://hits.sh/github.com/nirav-gajera/todo-list-php/hits/)
-
 # todo-list-php
  simple to do list app using php with mysql database.
 
